@@ -118,6 +118,7 @@ a{
   color: #FFFAF0;
   font-size: 22px;
   padding-top: 50px;
+  padding-left: 25px;
 }
 
 .author-footer{
@@ -126,10 +127,8 @@ a{
 
 /* media queries */
 
-@media only screen
-and (min-device-width : 375px)
-and (max-device-width : 667px) {
-  img .book{
+@media only screen and (max-width: 767px) {
+  img{
     width: 350px;
     height: 600px;
     }
