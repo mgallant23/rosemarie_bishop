@@ -101,7 +101,7 @@ a{
 
 /* about me */
 .about-header{
-  margin-top: 10px;
+  margin-top: 25px;
   font-family: cursive;
   color: #FFFAF0;
 }
@@ -117,8 +117,7 @@ a{
   font-family: cursive;
   color: #FFFAF0;
   font-size: 22px;
-  padding-top: 100px;
-  padding-left: 25px;
+  padding-top: 50px;
 }
 
 .author-footer{
